@@ -5,7 +5,7 @@
 * Goals should be inspirational and motivating - we need to mobolise people to achieve them
 * Goals should be easy to understand and communicate
 * Don't overload yourself, so you can achieve, move on and maintain momentum
-* Goals should be organised into a development sequence, so we can work from simple, achievable steps that we can achieve in the short term, to longer term victories
+* Goals should be organised into a development sequence, so we can work from simple steps that we can achieve in the short term and obtain longer term victories
 * This allows us to map a route to our destination
 * Goals should also be flexible - as the environment changes, we may need to adjust outcome or timeframes
 * We need to get consensus on goals, and *also* on how we work towards them - so we are not at cross purposes
@@ -24,7 +24,7 @@
 
 #Process
 
-* Idenitify some small, simple actions that people can be mobilised to take - these should work cumulatively towards our overall goals
+* Identify some small, simple actions that people can be mobilised to take - these should work cumulatively towards our overall goals
 * Evaluate regularly - are your goals on target? Do you need to adjust your strategy?
 * The process should be *iterative* - we should be learning and adjusting all the time. Flexible, fluid, responsive
 * Ask for honest feedback
